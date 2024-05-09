@@ -2,5 +2,5 @@ torch
 transformers
 fastapi
 pydantic
-uvicorn
 gunicorn
+hypercorn
